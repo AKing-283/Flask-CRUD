@@ -29,8 +29,7 @@ A cleanly-architected, scalable RESTful API built with Flask and MongoDB for man
 ## 🚀 Quick Start (with Docker)
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone [Flask-CRUD](https://github.com/AKing-283/Flask-CRUD.git)
 docker-compose up --build
 ```
 
